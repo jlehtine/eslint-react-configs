@@ -1,0 +1,16 @@
+{
+  "name": "@jlehtine/eslint-react-configs",
+  "version": "1.0.0",
+  "description": "Opinionated ESLint configurations for React development",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jlehtine/eslint-react-configs.git"
+  },
+  "author": "Johannes Lehtinen <johannes.lehtinen@iki.fi>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jlehtine/eslint-react-configs/issues"
+  },
+  "homepage": "https://github.com/jlehtine/eslint-react-configs"
+}
